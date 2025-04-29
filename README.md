@@ -33,6 +33,11 @@ Deux applications disponibles :
 ```bash
 git clone https://github.com/ton-profil/gemini-rag-chat.git
 cd gemini-rag-chat
+cd LangChain-RAG-System-with-Google-Gemini
+---
+
+### 2. Installer les dépendances
+pip install -r requirements.txt
 
 
 
